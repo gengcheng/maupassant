@@ -1,9 +1,10 @@
-/*
-Theme Name: Maupassant
-Version: 1.13
-Author: cho, grafting by mufeng
-Author URI: http://pagecho.com
-*/
+/**
+ * 
+ * @package Maupassant
+ * @author cho, grafting by mufeng
+ * @version 1.1.4
+ * @link http://pagecho.com
+ */
  
 ::selection {
 	background:#F6F6F3;
@@ -90,13 +91,13 @@ textarea {
 }
 #logo {
 	font:bold 50px/2 "ff-tisa-web-pro",Cambria,"Times New Roman",Georgia,Times, sans-serif;
-	color:#555;
+	color:#cc4f27;
 }
 #logo span{
-	color:#777;
+	color:#cc4f27;
 }
 #logo:hover {
-color:#777;
+color:#cc4f27;
 }
 .description {
 	margin:-22px 0 0;
@@ -184,12 +185,12 @@ width:800px;
 }
 .post-title {
 	margin:0;
-	color:#555;
+	color:#cc4f27;
 	text-align:left;
 	font:bold 25px/1.2 "ff-tisa-web-pro",Cambria,"Times New Roman",Georgia,Times, sans-serif;
 }
 .post-title a{
-	color:#555;
+	color:#cc4f27;
 }
 .post-meta {
 	padding:0;
@@ -406,7 +407,7 @@ textarea.textarea{
 	margin-bottom:30px;
 }
 .widget-title,h3#response{
-	color:#6E7173;
+	color:#cc4f27;
 	line-height:2.7;
 	margin-top:0;
 	font-size:16px;
